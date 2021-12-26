@@ -1,7 +1,7 @@
 # Archlinux Toolbox
 
 Archlinux toolbox that can be used with [Toolbox](https://github.com/containers/toolbox).
-An automated build is available in the Docker Hub as `docker.io/palazzem/archlinux-toolbox:latest`.
+An automated build is available in the Docker Hub as `ghcr.io/srevinsaju/archlinux-toolbox:master`.
 
 ## Usage
 
