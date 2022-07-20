@@ -8,11 +8,11 @@ An automated build is available in the Docker Hub as `ghcr.io/srevinsaju/archlin
 From a system that has `toolbox` installed, run:
 
 ```bash
-$ toolbox create -i docker.io/palazzem/archlinux-toolbox:latest -c archlinux-toolbox
+$ toolbox create -i ghcr.io/srevinsaju/archlinux-toolbox:master -c archlinux-toolbox
 $ toolbox enter -c archlinux-toolbox
 
 # You should see this but with your username:
-# [palazzem@toolbox ~]$
+# [ss@toolbox ~]$
 ```
 
 This image has been introduced as an [iteration of an official PR](https://github.com/palazzem/archlinux-toolbox/pull/1).
